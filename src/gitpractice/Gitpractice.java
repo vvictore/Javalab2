@@ -14,11 +14,11 @@ public class Gitpractice {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Initialising of variables
     int x = 5;
     int y = 6;
     int sum = x + y;
-System.out.println(sum);
+System.out.println(sum); //The sum is being printed
     }
     
 }
